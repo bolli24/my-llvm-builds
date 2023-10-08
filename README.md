@@ -1,1 +1,3 @@
-Just some compiled packages of LLVM
+Just some compiled packages of LLVM.
+
+Very much unofficial.
